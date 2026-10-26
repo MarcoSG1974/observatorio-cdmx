@@ -1,0 +1,8 @@
+# Ignorar datos crudos (son muy pesados para GitHub)
+data/raw/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+.env
+
